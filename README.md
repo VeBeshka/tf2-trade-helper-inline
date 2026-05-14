@@ -1,27 +1,5 @@
 # TF2 Trade Helper INLINE
 
-# Screenshots
-
-## Purple Theme
-
-![Purple Theme](screenshots/purple.png)
-
-## Blue Theme
-
-![Blue Theme](screenshots/blue.png)
-
-## Green Theme
-
-![Green Theme](screenshots/green.png)
-
-## Black Theme
-
-![Black Theme](screenshots/black.png)
-
-## Classic Theme
-
-![Classic Theme](screenshots/classic.png)
-
 Inline helper for TF2 trading on Backpack.tf and Steam trade offers.
 
 ---
