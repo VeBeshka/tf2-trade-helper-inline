@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         TF2 Trade Helper INLINE
-// @namespace    https://github.com/VeBeshka/tf2-trade-helper-inline
+// @namespace    https://steamcommunity.com/profiles/76561198201055179
 // @version      1.0
 // @author       VeBeshka
 // @description  TF2 trade helper for Backpack.tf and Steam trade offers
