@@ -1,5 +1,5 @@
 # TF2 Trade Helper INLINE
-![Purple Theme](screenshots/Purple.jpg)
+![Purple Theme](screenshots/Purple.png)
 
 Inline helper for TF2 trading on Backpack.tf and Steam trade offers.
 
