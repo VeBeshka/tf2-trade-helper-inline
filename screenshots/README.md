@@ -2,20 +2,20 @@
 
 ## Purple Theme
 
-![Purple Theme](screenshots/purple.png)
+![Purple Theme](screenshots/Purple.jpg)
 
 ## Blue Theme
 
-![Blue Theme](screenshots/blue.png)
+![Blue Theme](screenshots/Blue.jpg)
 
 ## Green Theme
 
-![Green Theme](screenshots/green.png)
+![Green Theme](screenshots/green.jpg)
 
-## Black Theme
+## Dark Theme
 
-![Black Theme](screenshots/black.png)
+![Black Theme](screenshots/darkINFO.jpg)
 
-## Classic Theme
+## mini
 
-![Classic Theme](screenshots/classic.png)
+![Classic Theme](screenshots/mini.jpg)
